@@ -52,12 +52,12 @@
 
 
 
-<section data-silex-type="container-element" class="editable-style section-element silex-id-1648446517194-10" data-silex-id="silex-id-1648446517194-10" style=""><div data-silex-type="container-element" class="editable-style container-element silex-id-1648446517194-11 silex-element-content website-width prevent-draggable" data-silex-id="silex-id-1648446517194-11" style=""><div data-silex-type="text-element" class="editable-style text-element silex-id-1648447061192-13 page-home paged-element style-home-header" data-silex-id="silex-id-1648447061192-13" style=""><div class="silex-element-content normal"><p>Home<br></p></div></div><div data-silex-type="text-element" class="editable-style text-element silex-id-1648447192749-20 page-media paged-element style-home-header" data-silex-id="silex-id-1648447192749-20" style="" href="null"><div class="silex-element-content normal"><p>Media<br></p></div></div><div data-silex-type="text-element" class="editable-style text-element silex-id-1648447117082-14 page-retro-corner paged-element style-home-header" data-silex-id="silex-id-1648447117082-14" style="" href="null"><div class="silex-element-content normal"><p>Retro-Corner<br></p></div></div></div></section><section data-silex-type="container-element" class="editable-style section-element silex-id-1648444673651-2" data-silex-id="silex-id-1648444673651-2" style=""><div data-silex-type="container-element" class="editable-style container-element silex-id-1648444673651-3 silex-element-content website-width prevent-draggable" data-silex-id="silex-id-1648444673651-3" style=""><div data-silex-type="text-element" class="editable-style text-element silex-id-1648445888819-7 silex-component-hamburger prevent-resizable prevent-auto-z-index style-hamburger-style" data-silex-id="silex-id-1648445888819-7" style=""><div class="silex-element-content normal"><style>.hamburger-menu_1648446340252_817 {position: absolute; z-index: 20;}.silex-editor .hamburger-menu_1648446340252_817 nav {left: -9999px;}.hamburger-menu_1648446340252_817 nav ul {margin-top: 80px;}.hamburger-menu_1648446340252_817 nav {opacity: 0; position: absolute; background-color: #ededed; transition: left 1s ease, height 0s ease 1s; left: -300px; width: 300px; height: 20px;}.hamburger-menu_1648446340252_817.open nav {opacity: 1; height: 100vh; left: 0; transition: left 1s ease, height 0s ease 0s;}.hamburger-menu_1648446340252_817 .nav-container {z-index: 10; position: absolute;}.hamburger-menu_1648446340252_817.open .nav-container {}.hamburger-menu_1648446340252_817 .hamburger-btn {z-index: 20; cursor: pointer; position: absolute;}.hamburger-menu_1648446340252_817 .hamburger-btn span {display: block; width: 30px; height: 5px; margin-bottom: 3px; position: relative; background-color: #ffffff; border: 1px solid #9c9c9c; border-radius: 3px; transition: border-color 0.1s ease-in,
+<section data-silex-type="container-element" class="editable-style section-element silex-id-1648446517194-10" data-silex-id="silex-id-1648446517194-10" style=""><div data-silex-type="container-element" class="editable-style container-element silex-id-1648446517194-11 silex-element-content website-width prevent-draggable" data-silex-id="silex-id-1648446517194-11" style=""><div data-silex-type="text-element" class="editable-style text-element silex-id-1648447061192-13 page-home paged-element style-home-header" data-silex-id="silex-id-1648447061192-13" style=""><div class="silex-element-content normal"><p>Home<br></p></div></div><div data-silex-type="text-element" class="editable-style text-element silex-id-1648447192749-20 page-media paged-element style-home-header" data-silex-id="silex-id-1648447192749-20" style="" href="null"><div class="silex-element-content normal"><p>Media<br></p></div></div><div data-silex-type="text-element" class="editable-style text-element silex-id-1648447117082-14 page-retro-corner paged-element style-home-header" data-silex-id="silex-id-1648447117082-14" style="" href="null"><div class="silex-element-content normal"><p>Retro-Corner<br></p></div></div></div></section><section data-silex-type="container-element" class="editable-style section-element silex-id-1648444673651-2" data-silex-id="silex-id-1648444673651-2" style=""><div data-silex-type="container-element" class="editable-style container-element silex-id-1648444673651-3 silex-element-content website-width prevent-draggable" data-silex-id="silex-id-1648444673651-3" style=""><div data-silex-type="text-element" class="editable-style text-element silex-id-1648445888819-7 silex-component-hamburger prevent-resizable prevent-auto-z-index style-hamburger-style" data-silex-id="silex-id-1648445888819-7" style=""><div class="silex-element-content normal"><style>.hamburger-menu_1648448119891_364 {position: absolute; z-index: 20;}.silex-editor .hamburger-menu_1648448119891_364 nav {left: -9999px;}.hamburger-menu_1648448119891_364 nav ul {margin-top: 80px;}.hamburger-menu_1648448119891_364 nav {opacity: 0; position: absolute; background-color: #ffffff; transition: left 1s ease, height 0s ease 1s; left: -300px; width: 300px; height: 20px;}.hamburger-menu_1648448119891_364.open nav {opacity: 1; height: 100vh; left: 0; transition: left 1s ease, height 0s ease 0s;}.hamburger-menu_1648448119891_364 .nav-container {z-index: 10; position: absolute;}.hamburger-menu_1648448119891_364.open .nav-container {}.hamburger-menu_1648448119891_364 .hamburger-btn {z-index: 20; cursor: pointer; position: absolute;}.hamburger-menu_1648448119891_364 .hamburger-btn span {display: block; width: 30px; height: 5px; margin-bottom: 3px; position: relative; background-color: #ffffff; border: 1px solid #9c9c9c; border-radius: 3px; transition: border-color 0.1s ease-in,
       opacity 0.1s ease-in,
       transform 0.1s ease-in,
-      background 0.1s ease-in;}.hamburger-menu_1648446340252_817.open .hamburger-btn span {border-color: rgba(255, 255, 255, 0);}.hamburger-menu_1648446340252_817 .hamburger-btn span:first-child {transform-origin: 4px -2px;}.hamburger-menu_1648446340252_817.open .hamburger-btn span:first-child {transform: rotate(45deg) translate(7px, -4px);}.hamburger-menu_1648446340252_817.open .hamburger-btn span:nth-last-child(2) {opacity: 0;}.hamburger-menu_1648446340252_817 .hamburger-btn span:nth-child(3) {transform-origin: -11px 4px;}.hamburger-menu_1648446340252_817.open .hamburger-btn span:nth-child(3) {transform: rotate(-45deg) translate(0, 12px);}</style>
+      background 0.1s ease-in;}.hamburger-menu_1648448119891_364.open .hamburger-btn span {border-color: rgba(255, 255, 255, 0);}.hamburger-menu_1648448119891_364 .hamburger-btn span:first-child {transform-origin: 4px -2px;}.hamburger-menu_1648448119891_364.open .hamburger-btn span:first-child {transform: rotate(45deg) translate(7px, -4px);}.hamburger-menu_1648448119891_364.open .hamburger-btn span:nth-last-child(2) {opacity: 0;}.hamburger-menu_1648448119891_364 .hamburger-btn span:nth-child(3) {transform-origin: -11px 4px;}.hamburger-menu_1648448119891_364.open .hamburger-btn span:nth-child(3) {transform: rotate(-45deg) translate(0, 12px);}.hamburger-menu_1648448119891_364 ul li {padding: 20px 4px; border-bottom: 1px solid #b3b3b3; list-style-type: none; color: #4B4B4B; margin: 0 60px 0 20px;}.hamburger-menu_1648448119891_364 ul li a {color: #4B4B4B;}.hamburger-menu_1648448119891_364.open nav {top: -20px;}.hamburger-menu_1648448119891_364 nav {width: 101vw !important; margin: 0 -1px;}</style>
 <!-- inspired by https://codepen.io/erikterwan/pen/EVzeRP -->
-<div class="hamburger-menu_1648446340252_817 closed">
+<div class="hamburger-menu_1648448119891_364 closed">
     <div class="hamburger-btn ">
       <span></span>
       <span></span>
@@ -68,11 +68,11 @@
         <nav role="navigation" class="">
             <ul>
             
-                <li><a href="#!page-home" linktype="LinkTypePage" title="Home" class="">Home</a></li>
+                <li><a href="#!page-home" linktype="LinkTypePage" title="Home">Home</a></li>
             
-                <li><a href="#!page-retro-corner" linktype="LinkTypePage" title="Retro-Corner" class="">Retro-Corner</a></li>
+                <li><a href="#!page-retro-corner" linktype="LinkTypePage" title="Retro-Corner">Retro-Corner</a></li>
             
-                <li><a href="#!page-media" linktype="LinkTypePage" title="Media" class="page-link-active">Media</a></li>
+                <li><a href="#!page-media" linktype="LinkTypePage" title="Media">Media</a></li>
             
             </ul>
         </nav>
@@ -84,26 +84,26 @@
   var isOpen = false;
   function close() {
     isOpen = false;
-    $('.hamburger-menu_1648446340252_817').removeClass('open');
-    $('.hamburger-menu_1648446340252_817').addClass('closed');
+    $('.hamburger-menu_1648448119891_364').removeClass('open');
+    $('.hamburger-menu_1648448119891_364').addClass('closed');
   }
   function open() {
     isOpen = true;
-    $('.hamburger-menu_1648446340252_817').addClass('open');
-    $('.hamburger-menu_1648446340252_817').removeClass('closed');
+    $('.hamburger-menu_1648448119891_364').addClass('open');
+    $('.hamburger-menu_1648448119891_364').removeClass('closed');
   }
   function toggle() {
     if(isOpen) close();
     else open();
   }
-  var silexElement = $('.hamburger-menu_1648446340252_817').closest('.editable-style');
+  var silexElement = $('.hamburger-menu_1648448119891_364').closest('.editable-style');
   function move(data) {
     var offset = silexElement.offset();
-    $('.hamburger-menu_1648446340252_817 .nav-container').css({
+    $('.hamburger-menu_1648448119891_364 .nav-container').css({
       'transform': 'translate(' + (data.scrollLeft - (offset.left/data.scale)) + 'px, ' + (data.scrollTop - (offset.top/data.scale)) + 'px)'
     });
   }
-  $('.hamburger-menu_1648446340252_817 .hamburger-btn').click(function() { toggle(); });
+  $('.hamburger-menu_1648448119891_364 .hamburger-btn').click(function() { toggle(); });
   $(document).on('silex.scroll silex.resize', function(e) {
     close();
     move(window.silex);
